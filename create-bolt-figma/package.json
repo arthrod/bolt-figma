@@ -26,7 +26,7 @@
     "directory": "packages/create-vite"
   },
   "dependencies": {
-    "@clack/prompts": "^0.7.0",
+    "@clack/prompts": "^0.11.0",
     "@types/prettier": "^3.0.0",
     "@types/resolve-dir": "^0.0.0",
     "bolt-figma": "^0.0.28",
